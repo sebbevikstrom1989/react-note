@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sebbevikstrom1989/react-note/static/css/main.5dc5f5bd.chunk.css",
+    "main.js": "/sebbevikstrom1989/react-note/static/js/main.f990a66c.chunk.js",
+    "main.js.map": "/sebbevikstrom1989/react-note/static/js/main.f990a66c.chunk.js.map",
+    "runtime-main.js": "/sebbevikstrom1989/react-note/static/js/runtime-main.b792db19.js",
+    "runtime-main.js.map": "/sebbevikstrom1989/react-note/static/js/runtime-main.b792db19.js.map",
+    "static/js/2.e920d128.chunk.js": "/sebbevikstrom1989/react-note/static/js/2.e920d128.chunk.js",
+    "static/js/2.e920d128.chunk.js.map": "/sebbevikstrom1989/react-note/static/js/2.e920d128.chunk.js.map",
+    "index.html": "/sebbevikstrom1989/react-note/index.html",
+    "static/css/main.5dc5f5bd.chunk.css.map": "/sebbevikstrom1989/react-note/static/css/main.5dc5f5bd.chunk.css.map",
+    "static/js/2.e920d128.chunk.js.LICENSE.txt": "/sebbevikstrom1989/react-note/static/js/2.e920d128.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b792db19.js",
+    "static/js/2.e920d128.chunk.js",
+    "static/css/main.5dc5f5bd.chunk.css",
+    "static/js/main.f990a66c.chunk.js"
+  ]
+}
